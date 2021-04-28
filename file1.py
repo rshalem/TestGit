@@ -1,1 +1,1 @@
-automate.py
+automatically.py
